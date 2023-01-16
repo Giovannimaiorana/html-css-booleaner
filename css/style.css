@@ -1,3 +1,18 @@
-#pattern{
-    height: 300px;
+header{
+    background-image: url("../img 4/pattern.png");
+    background-size: 20%;
+    background-color: dodgerblue;
+}
+
+#logo{
+    width: 200px;
+    height: 100px;
+}
+strong{
+    color: rgb(100, 163, 226);
+    
+}
+
+h1{
+    font-size: 40px;
 }
