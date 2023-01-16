@@ -35,16 +35,6 @@ h1{
 #evidenziato{
     background-color: yellow;
 }
-thead{
-    background-color: rgb(113, 172, 219);
-    color: white;
-    border-color: rgb(113, 172, 219);
-   
-}
-tbody{
-    background-color: rgb(115, 233, 249);
-    border-color: rgb(115, 233, 249);
-}
 #bianco{
     background-color:white;
     border-color: white;
@@ -68,4 +58,39 @@ h3{
 }
 .spazio{
     margin: 10px;
+}
+table{
+    width: 100%;
+    border: 0px;
+    align-items: center;
+    background-color: rgb(2, 94, 151);
+    text-align: left;
+    table-layout: fixed;
+}
+#riga1{
+    width: 100%;
+    border:none;
+    align-items: center;
+    background-color: rgb(2, 216, 236);
+    text-align:left;
+    table-layout: fixed;
+}
+#riga2{
+    width: 100%;
+    border:none;
+    align-items: center;
+    background-color: white;
+    text-align:left;
+    table-layout: fixed;
+}
+#riga3{
+    width: 100%;
+    border:none;
+    align-items: center;
+    background-color: rgb(2, 216, 236);
+    text-align:left;
+    table-layout: fixed;
+}
+th{
+    color: white;
 }
