@@ -3,19 +3,69 @@ header{
     background-size: 30%;
     background-color: dodgerblue;
 }
-
+/*Logo*/
 #logo{
     width: 200px;
     height: 100px;
+    margin: 10px;
 }
-strong{
-    color: rgb(100, 163, 226);
+/*TITOLO*/
+h1{
+    font-size: 50px;
+}
+.scrittoda{
+    font-size: 25px;
+    color: grey;
+    }
+#parteblu{
+    color: rgb(42, 131, 239);
+}
+#data{
+    font-size: 10px;
+    color: grey;
     
 }
-
-h1{
-    font-size: 40px;
+/*DESCRIZIONE FOTO */
+.descrizione{
+    font-size: 10px;
+    width: 40%;
+    margin: 10px;
 }
+/*SFONDO GIALLO IN TESTO */
 #evidenziato{
     background-color: yellow;
+}
+thead{
+    background-color: rgb(113, 172, 219);
+    color: white;
+    border-color: rgb(113, 172, 219);
+   
+}
+tbody{
+    background-color: rgb(115, 233, 249);
+    border-color: rgb(115, 233, 249);
+}
+#bianco{
+    background-color:white;
+    border-color: white;
+}
+
+h3{
+    background-image: url("../img 4/monitor.jpg");
+    margin: 10px;
+    width: 240px;
+    height: 150px;
+    text-align: center;
+    color: white;
+}
+#graphic{
+    background-image: url("../img 4/graph.jpg");
+    margin: 10px;
+    width: 240px;
+    height: 150px;
+    text-align: center;
+    color: white; 
+}
+.spazio{
+    margin: 10px;
 }
