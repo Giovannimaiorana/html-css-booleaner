@@ -94,3 +94,11 @@ table{
 th{
     color: white;
 }
+main{
+    width: 95%;
+    margin: auto;
+}
+footer{
+    width: 95%;
+    margin: auto;
+}
