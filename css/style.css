@@ -1,6 +1,6 @@
 header{
     background-image: url("../img 4/pattern.png");
-    background-size: 20%;
+    background-size: 30%;
     background-color: dodgerblue;
 }
 
@@ -15,4 +15,7 @@ strong{
 
 h1{
     font-size: 40px;
+}
+#evidenziato{
+    background-color: yellow;
 }
